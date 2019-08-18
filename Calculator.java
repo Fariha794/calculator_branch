@@ -7,7 +7,6 @@ public class Calculator{
 		System.out.println(division(5,5));
 
 
-
 	}
 
 	double addition(double x, int double){
@@ -16,5 +15,11 @@ public class Calculator{
 
 	double subtraction(double x, double y){
 		return x - y;
+	}
+	double multiplication(double x, double y){
+		return x * y;
+	}
+	double division(double x, double y){
+		return x / y;
 	}
 }
