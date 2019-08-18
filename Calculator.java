@@ -3,6 +3,10 @@ public class Calculator{
 
 		System.out.println(addition(3,4));
 		System.out.println(subtraction(13,4));
+		System.out.println(multiplication(5,5));
+		System.out.println(division(5,5));
+
+
 
 	}
 
